@@ -1,0 +1,4 @@
+# Signed files must stay byte-for-byte as signed: no line-ending conversion.
+*.json -text
+*.sig -text
+*.xml -text

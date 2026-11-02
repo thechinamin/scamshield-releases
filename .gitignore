@@ -1,0 +1,4 @@
+# Release zips are uploaded as GitHub Release files, never committed.
+releases/
+# The signing key backup must never be anywhere near this repository.
+*.pfx
