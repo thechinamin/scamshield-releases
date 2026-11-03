@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Every Scam Shield release built by build/Build-Release.ps1 (version, zip SHA-256, commit). build/Set-Channel.ps1 reads it to sign channel files. Never edit by hand.",
+  "releases": [
+    {
+      "version": "2.0.0",
+      "zipSha256": "14fdac1af5c06a64af54bd86909ed2a26f113c38ac03c2b86a8bc87a3cc0d661",
+      "zipUrl": "https://github.com/thechinamin/scamshield-releases/releases/download/v2.0.0/scamshield-2.0.0.zip",
+      "size": 218604,
+      "commit": "167420ec945892db0d40352b209d45d6add31672",
+      "dirty": false,
+      "minBootstrap": 1,
+      "built": "2026-11-02T13:26:47-06:00",
+      "pilotAt": "2026-11-03T09:29:57-06:00",
+      "stableAt": ""
+    }
+  ]
+}

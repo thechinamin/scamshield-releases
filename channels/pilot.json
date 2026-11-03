@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "channel": "pilot",
+  "sequence": 1,
+  "version": "2.0.0",
+  "zipUrl": "https://github.com/thechinamin/scamshield-releases/releases/download/v2.0.0/scamshield-2.0.0.zip",
+  "zipSha256": "14fdac1af5c06a64af54bd86909ed2a26f113c38ac03c2b86a8bc87a3cc0d661",
+  "minBootstrap": 1
+}
